@@ -131,7 +131,7 @@ Close     Warn User   Block & Escalate
 * The "Pause, Verify, Report" principle for handling suspicious messages
 
 ## 👤 Author
-Ahtasham Ul Haq
+M.ashir abbass
 BS Cyber Security Student
 UET Taxila
 
